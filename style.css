@@ -536,7 +536,7 @@ input:required {
     padding: 0; }
     @media only screen and (max-width: 767px) {
       .classy-nav-container .classy-navbar .nav-brand {
-        max-width: 90px;
+        max-width: 210px;
         margin-right: 15px; } }
     .classy-nav-container .classy-navbar .classynav ul li a {
       font-size: 16px;
@@ -718,6 +718,9 @@ input:required {
       @media only screen and (max-width: 767px) {
         .single-welcome-slide .welcome-text h2 {
           font-size: 42px; } }
+      @media only screen and (max-width: 767px) {
+        .single-welcome-slide .welcome-text h3 {
+          font-size: 22px; } }
     .single-welcome-slide .welcome-text p {
       color: #ffffff;
       margin-bottom: 50px;
